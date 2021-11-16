@@ -1,0 +1,44 @@
+D:\bootcamp\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+D:\bootcamp\CRUD\obj\Debug\CRUD.Form1.resources
+D:\bootcamp\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+D:\bootcamp\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+D:\bootcamp\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+D:\bootcamp\CRUD\bin\Debug\CRUD.exe.config
+D:\bootcamp\CRUD\bin\Debug\CRUD.exe
+D:\bootcamp\CRUD\bin\Debug\CRUD.pdb
+D:\bootcamp\CRUD\obj\Debug\CRUD.exe
+D:\bootcamp\CRUD\obj\Debug\CRUD.pdb
+D:\bootcamp\CRUD\obj\Debug\CRUD.data.resources
+D:\ukk\CRUD\bin\Debug\CRUD.exe.config
+D:\ukk\CRUD\bin\Debug\CRUD.exe
+D:\ukk\CRUD\bin\Debug\CRUD.pdb
+D:\ukk\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+D:\ukk\CRUD\obj\Debug\CRUD.data.resources
+D:\ukk\CRUD\obj\Debug\CRUD.Form1.resources
+D:\ukk\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+D:\ukk\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+D:\ukk\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+D:\ukk\CRUD\obj\Debug\CRUD.exe
+D:\ukk\CRUD\obj\Debug\CRUD.pdb
+C:\Users\LENOVO\Documents\XII RPL 2\Ukk\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\LENOVO\Documents\XII RPL 2\Ukk\CRUD\bin\Debug\CRUD.exe
+C:\Users\LENOVO\Documents\XII RPL 2\Ukk\CRUD\bin\Debug\CRUD.pdb
+C:\Users\LENOVO\Documents\XII RPL 2\Ukk\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\XII RPL 2\Ukk\CRUD\obj\Debug\CRUD.data.resources
+C:\Users\LENOVO\Documents\XII RPL 2\Ukk\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\LENOVO\Documents\XII RPL 2\Ukk\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\LENOVO\Documents\XII RPL 2\Ukk\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\XII RPL 2\Ukk\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\XII RPL 2\Ukk\CRUD\obj\Debug\CRUD.exe
+C:\Users\LENOVO\Documents\XII RPL 2\Ukk\CRUD\obj\Debug\CRUD.pdb
+C:\Users\LENOVO\Documents\XII-RPL2\Ukk\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\LENOVO\Documents\XII-RPL2\Ukk\CRUD\bin\Debug\CRUD.exe
+C:\Users\LENOVO\Documents\XII-RPL2\Ukk\CRUD\bin\Debug\CRUD.pdb
+C:\Users\LENOVO\Documents\XII-RPL2\Ukk\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\XII-RPL2\Ukk\CRUD\obj\Debug\CRUD.data.resources
+C:\Users\LENOVO\Documents\XII-RPL2\Ukk\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\LENOVO\Documents\XII-RPL2\Ukk\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\LENOVO\Documents\XII-RPL2\Ukk\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\XII-RPL2\Ukk\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\XII-RPL2\Ukk\CRUD\obj\Debug\CRUD.exe
+C:\Users\LENOVO\Documents\XII-RPL2\Ukk\CRUD\obj\Debug\CRUD.pdb
