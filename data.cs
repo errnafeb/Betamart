@@ -61,7 +61,7 @@ namespace CRUD
             koneksi.Open();
             string printah = "UPDATE tb_produk SET nama_barang='" + textbrg.Text + "', brand='" + CBbrand.Text + "', kategori='" + CBkategori.Text + "',  jumlah_barang='" + TBjumlah.Text + "', harga_barang='" +TBharga.Text +"'WHERE ID =" + textBox1.Text + "";
             OleDbCommand cmd = new OleDbCommand(printah, koneksi);
-            cmd.ExecuteNonQuery();
+              cmd.ExecuteNonQuery();
             koneksi.Close();
             MessageBox.Show("Data berhasil Diupdate");
             showData();

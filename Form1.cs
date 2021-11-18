@@ -38,7 +38,7 @@ namespace CRUD
                 MessageBox.Show("Login Berhasil");
 
                 data data= new data ();
-                data.Show();
+                data .Show();
             }
             else
             {
